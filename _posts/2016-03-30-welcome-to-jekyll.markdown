@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-color:  teal
+color:  black
 width:   6 
 height:  1
 date:   2016-03-30 11:31:49 +0200
